@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vishal Dixit</h1>
-<h3 align="center">Learning how to code</h3>
+<h1 align="center">Hi 👋, I'm Vishal Dixit! Great to see you here!</h1>
+<h3 align="center">Like to learn new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mrdixitji1" target="blank"><img src="https://img.shields.io/twitter/follow/mrdixitji1?logo=twitter&style=for-the-badge" alt="mrdixitji1" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🔭 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Data Structure and Algorithms** 
 
 - 📫 How to reach me **vishaldixit20902@gmail.com**
 
