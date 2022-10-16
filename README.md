@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrdixitji1" target="blank"><img src="https://img.shields.io/twitter/follow/mrdixitji1?logo=twitter&style=for-the-badge" alt="mrdixitji1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrdixitji1" target="blank"><img src="https://img.shields.io/twitter/follow/mrdixitji1?logo=twitter&style=for-the-badge" alt="mrdixitji1" /></a> </p>  
 
 #### My Tech Stack:
 
-| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | C | PYTHON | JAVA | JAVASCRIPT | REACT |
+| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | C | PYTHON | JAVA | JAVASCRIPT | REACT | 
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/c.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |
 
@@ -29,11 +29,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldixit8819&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishaldixit8819" /></p>
 
-<!-- <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="280"> -->
+<!-- <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/gif-images-of-computer-gifs" width="280"> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" /></p>
 
-<!-- ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <img align='centre' src="https://random-memer.herokuapp.com" width="400">
