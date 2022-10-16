@@ -29,11 +29,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldixit8819&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishaldixit8819" /></p>
 
-<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="280">
+<!-- <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="280"> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" /></p>
 
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 
 <img align='centre' src="https://random-memer.herokuapp.com" width="400">
