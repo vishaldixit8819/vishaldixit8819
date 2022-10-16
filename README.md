@@ -7,7 +7,7 @@
 
 #### My Tech Stack:
 
-| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | C | PYTHON | JAVA | DART | FLUTTER |
+| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | C | PYTHON | JAVA | JAVASCRIPT | REACTJS |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/c.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/reactjs.svg"> |
 
