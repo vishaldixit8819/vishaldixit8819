@@ -21,7 +21,9 @@
 <a href="https://twitter.com/mrdixitji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrdixitji1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishal-dixit-8705ba1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-dixit-8705ba1bb" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.dixitji039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dixitji039" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hardcore20902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hardcore20902" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_2d_201500792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_2d_201500792" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_hardcore20902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_hardcore20902" height="30" width="40" /></a>
 <a href="https://leetcode.com/vishaldixit_cs20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishaldixit_cs20" height="30" width="40" /></a>
 </p>
 
@@ -39,7 +41,6 @@
 
 <img align='centre' src="https://random-memer.herokuapp.com" width="400">
 
-![snake gif](https://github.com/vishaldixit8819/vishaldixit8819/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldixit8819&theme=radical" alt="vishaldixit8819" /></p>
 
