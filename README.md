@@ -1,5 +1,3 @@
-<img src="VISHAL DIXIT.gif" alt="Myself" width="850" height="470">
-
 <h1 align="center">Hi 👋, I'm Vishal Dixit! Great to see you here!</h1>
 <h3 align="center">Like to learn new technologies</h3>
 
@@ -15,8 +13,7 @@
 
 - 🔭 I’m currently learning **Full Stack Development**
 - 🌱 I’m currently learning **Data Structure and Algorithms** 
-
-- 📫 How to reach me **vishaldixit20902@gmail.com**
+- 📫 How to reach me: https://www.linkedin.com/in/vishal-dixit-8705ba1bb/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
