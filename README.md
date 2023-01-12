@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldixit8819&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishaldixit8819" /></p>
 
-<!-- <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/gif-images-of-computer-gifs" width="280"> -->
+<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/gif-images-of-computer-gifs" width="280">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" /></p>
 
