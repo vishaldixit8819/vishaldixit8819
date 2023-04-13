@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vishal Dixit! Great to see you here!</h1>
+<h1 align="center">Hi 👋, I'm Vishal Dixit! Great to see you here!</h1> <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 <h3 align="center">Like to learn new technologies</h3>
+
+<p align="left">
+  <a href="https://github.com/vishaldixit8819/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Kunal!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
 
@@ -12,8 +16,21 @@
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/c.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |
 
 - 🔭 I’m currently learning **Full Stack Development**
-- 🌱 I’m currently learning **Data Structure and Algorithms** 
+- 🌱 I'm currently studying Data Structures and Algorithms through Java.
+- 👯 I’m looking to collaborate on *C/Python/Java*
+- 💬 Ask me about *CS* 
 - 📫 How to reach me: https://www.linkedin.com/in/vishal-dixit-8705ba1bb/
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
+
+<h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
+  <div align="center">
+ 
+ <a href="https://github.com/vishaldixit8819/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishaldixit8819&theme=gotham&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+ <br><br>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
