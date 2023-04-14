@@ -55,7 +55,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dixit&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dixit&theme=aura&hide=CSS,HTML,JAVASCRIPT&langs_count=3"/>|
  
 ### IDE/Editor (s) In Use:
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
