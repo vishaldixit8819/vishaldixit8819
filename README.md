@@ -55,7 +55,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=vishal-dixit&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dixit&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dixit&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
  
 ### IDE/Editor (s) In Use:
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
@@ -97,7 +97,7 @@
 
 <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/gif-images-of-computer-gifs" width="280">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" /></p> 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" /></p>  -->
 
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
