@@ -53,9 +53,11 @@
 
 ### My Github Stats:
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldixit8819&theme=aura&hide=CSS,HTML,JAVASCRIPT,JAVA&langs_count=4"/>|
+|_**Github Stats**_|
+|-----------|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />
+
+<!-- |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldixit8819&theme=aura&hide=CSS,HTML,JAVASCRIPT,JAVA&langs_count=4"/>| -->
  
 ### IDE/Editor (s) In Use:
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
