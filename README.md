@@ -24,6 +24,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
 
+<img src='monkey-laptop.gif' width = 300 height =175 align = "right" alt="coder" >
+  <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
+
 <h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
   <div align="center">
  
@@ -107,8 +110,8 @@
 
 <p align="center" >
  
-<img src='monkey-laptop.gif' width = 300 height =175 align = "right" alt="coder" >
-  <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
+<!-- <img src='monkey-laptop.gif' width = 300 height =175 align = "right" alt="coder" >
+  <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p> -->
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldixit8819&theme=radical" alt="vishaldixit8819" /></p> -->
