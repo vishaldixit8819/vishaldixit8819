@@ -21,6 +21,7 @@
 - 👯 I’m looking to collaborate on *C/Python/Java*
 - 💬 Ask me about *CS* 
 - 📫 How to reach me: https://www.linkedin.com/in/vishal-dixit-8705ba1bb/
+- <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/gif-images-of-computer-gifs" width="280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
 
@@ -101,7 +102,7 @@
 
   <br> <br>
 
-<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/gif-images-of-computer-gifs" width="280">
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" /></p>  -->
 
