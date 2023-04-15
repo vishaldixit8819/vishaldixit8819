@@ -53,11 +53,11 @@
 
 ### My Github Stats:
 
-|_**Github Stats**_|
-|-----------|
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />
+|_**Github Stats**_|_**Top Languages**_|
+|-----------|------------|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&show_icons=true&locale=en&theme=radical" alt="vishaldixit8819" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldixit8819&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />|
 
-<a href="https://github.com/vishaldixit8819" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldixit8819&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/vishaldixit8819" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldixit8819&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <!-- |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldixit8819&theme=aura&hide=CSS,HTML,JAVASCRIPT,JAVA&langs_count=4"/>| -->
  
