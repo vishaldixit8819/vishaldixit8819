@@ -28,6 +28,7 @@
 
 <h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
   <div align="center">
+
  
  <a href="https://github.com/vishaldixit8819/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishaldixit8819&theme=gotham&area=true&hide_border=true#gh-dark-mode-only" width="100%">
