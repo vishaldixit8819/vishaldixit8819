@@ -23,17 +23,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldixit8819&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldixit8819" /> </p>
 
-
-
-
- 
- <a href="https://github.com/vishaldixit8819/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishaldixit8819&theme=gotham&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
- <br><br>
-
-
-
+<br> <br>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrdixitji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrdixitji1" height="30" width="40" /></a>
