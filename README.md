@@ -98,7 +98,7 @@
 <a href="https://github.com/vishaldixit8819/vishaldixit8819/">
   <img src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldixit8819&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="Vishal Dixit"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldixit8819&theme=dark&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="vishaldixit8819" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldixit8819&theme=dark&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200" alt="vishaldixit8819" /></p>
   
       
 </a>
