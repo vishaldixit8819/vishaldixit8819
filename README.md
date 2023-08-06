@@ -98,8 +98,10 @@
 <a href="https://github.com/vishaldixit8819/vishaldixit8819/">
   <img src="https://github-readme-stats.vercel.app/api?username=vishaldixit8819&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldixit8819&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="Vishal Dixit"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=vishaldixit8819&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldixit8819&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="280" height="200" alt="vishaldixit8819" /></p>
   
+  
+    
     
 </a>
 </div>
@@ -136,17 +138,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
-
----
-
-<br>
-
 
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="center" >
- 
+
+ <img src='monkey-laptop.gif' width = 300 height =175 align = "right" alt="coder" >
+
   <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
 
 
